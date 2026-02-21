@@ -275,10 +275,10 @@ Si ce projet t'intéresse, tu aimeras peut-être :
 
 **Abel KPOKOUTA**
 
-- 🎥 YouTube : [CodeAvecAbel](https://youtube.com/@CodeAvecAbel)
-- 💼 LinkedIn : [Abel KPOKOUTA](https://linkedin.com/in/ton-profil)
-- 🐙 GitHub : [@ton-username](https://github.com/ton-username)
-- 📧 Email : ton-email@example.com
+- 🎥 YouTube : [CodeAvecAbel](https://youtube.com/@codeavecabel?si=n0W74nEc4tDFsSMp)
+- 💼 LinkedIn : [Abel KPOKOUTA](https://www.linkedin.com/in/abel-kocou-kpokouta-6a388739a)
+- 🐙 GitHub : [@ton-username](https://github.com/Abel-Dev-KPOKOUTA)
+- 📧 Email : kpokoutaabel@gmail.com
 
 ---
 
@@ -303,7 +303,7 @@ Un grand merci à :
 
 Si ce projet t'a été utile :
 - ⭐ **Donne une étoile** au dépôt
-- 🔔 **Abonne-toi** à la [chaîne YouTube](https://youtube.com/@CodeAvecAbel)
+- 🔔 **Abonne-toi** à la [chaîne YouTube](https://youtube.com/@codeavecabel?si=n0W74nEc4tDFsSMp)
 - 📢 **Partage** avec tes amis développeurs
 - 💬 **Laisse un commentaire** sur la vidéo
 
@@ -313,6 +313,6 @@ Si ce projet t'a été utile :
 
 **Fait avec ❤️ par Abel KPOKOUTA**
 
-[🎥 YouTube](https://youtube.com/@CodeAvecAbel) • [💼 LinkedIn](https://linkedin.com/in/ton-profil) • [🐙 GitHub](https://github.com/ton-username)
+[🎥 YouTube](https://youtube.com/@codeavecabel?si=n0W74nEc4tDFsSMp) • [💼 LinkedIn](https://www.linkedin.com/in/abel-kocou-kpokouta-6a388739a) • [🐙 GitHub](https://github.com/Abel-Dev-KPOKOUTA)
 
 </div>
