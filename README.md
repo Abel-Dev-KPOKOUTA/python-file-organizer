@@ -276,8 +276,8 @@ Si ce projet t'intéresse, tu aimeras peut-être :
 **Abel KPOKOUTA**
 
 - 🎥 YouTube : [CodeAvecAbel](https://youtube.com/@codeavecabel?si=n0W74nEc4tDFsSMp)
-- 💼 LinkedIn : [Abel KPOKOUTA](https://www.linkedin.com/in/abel-kocou-kpokouta-6a388739a)
-- 🐙 GitHub : [@ton-username](https://github.com/Abel-Dev-KPOKOUTA)
+- 💼 LinkedIn : [Abel kocou KPOKOUTA](https://www.linkedin.com/in/abel-kocou-kpokouta-6a388739a)
+- 🐙 GitHub : [Abel-Dev-KPOKOUTA](https://github.com/Abel-Dev-KPOKOUTA)
 - 📧 Email : kpokoutaabel@gmail.com
 
 ---
